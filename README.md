@@ -1,3 +1,5 @@
+# LSQL IS STILL WORK IN PROGRESS SO IF YOU ENCOUNTER ANY BUGS THEYRE GONNA BE FIXED IN OFFICIAL RELEASE 
+
 # LSQL – Lightweight Single-File Database CLI
 
 LSQL is a minimal, single-file, command-line database management tool written in C. It allows you to create databases, manage users, and list databases and users—all from a simple terminal interface. Perfect for learning or experimenting with database concepts in C.  
